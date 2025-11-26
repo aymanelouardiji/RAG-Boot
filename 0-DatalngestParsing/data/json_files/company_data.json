@@ -1,0 +1,101 @@
+{
+  "company": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "Software Engineer",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React"
+      ],
+      "projects": [
+        {
+          "name": "RAG System",
+          "status": "In Progress"
+        },
+        {
+          "name": "Data Pipeline",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "role": "DevOps Engineer",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "projects": [
+        {
+          "name": "Cloud Migration",
+          "status": "In Progress"
+        },
+        {
+          "name": "CI/CD Setup",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "role": "Data Scientist",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "SQL"
+      ],
+      "projects": [
+        {
+          "name": "Customer Churn Model",
+          "status": "In Review"
+        },
+        {
+          "name": "Sales Forecasting",
+          "status": "Planning"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sarah Williams",
+      "role": "Product Manager",
+      "skills": [
+        "Agile",
+        "Jira",
+        "Roadmapping"
+      ],
+      "projects": [
+        {
+          "name": "Q4 Roadmap",
+          "status": "Completed"
+        },
+        {
+          "name": "User Research",
+          "status": "In Progress"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "role": "Frontend Developer",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "projects": [
+        {
+          "name": "Dashboard Redesign",
+          "status": "In Progress"
+        }
+      ]
+    }
+  ]
+}
